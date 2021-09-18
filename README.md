@@ -1,6 +1,1 @@
-
-still, this is the original version
-
-~~this is **branch two**, this readme file contains nothing but the branch name~~
-
-~~this is readme file of branch one~~
+let's start again, this time, all branches generated directly from main branch
